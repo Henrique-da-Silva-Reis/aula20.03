@@ -1,0 +1,25 @@
+{
+  "name": "aula20.03",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^5.2.1",
+    "node": "^25.8.1",
+    "node-bin-setup": "^1.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henrique-da-Silva-Reis/aula20.03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Henrique-da-Silva-Reis/aula20.03/issues"
+  },
+  "homepage": "https://github.com/Henrique-da-Silva-Reis/aula20.03#readme",
+  "description": ""
+}
